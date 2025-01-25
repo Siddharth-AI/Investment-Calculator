@@ -40,7 +40,7 @@ This is a **React-based application** that helps users calculate the returns on 
 
 - Mobile view :-
 
-<img src="./src/asset/mobile.png" width="400" height="550"/>
+<img src="./src/assets/mobile.png" width="400" height="550"/>
 
 ## Getting Started
 
