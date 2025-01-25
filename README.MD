@@ -32,6 +32,16 @@ This is a **React-based application** that helps users calculate the returns on 
 ### Utilities
 - **`formatter`**: Formats numbers into a user-friendly format (e.g., currency).
 
+## ScreenShot
+
+- Desktop view :-
+
+<img src="./src/assets/desktop.png" width="800" height="400"/>
+
+- Mobile view :-
+
+<img src="./src/asset/mobile.png" width="400" height="550"/>
+
 ## Getting Started
 
 ### Prerequisites
